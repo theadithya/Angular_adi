@@ -4,5 +4,6 @@ This helps the store to understand their customers and improve their sales in 20
 
 # Dashboard
 
-![Dashboard](https://github.com/theadithya/Excel_Seetha_Store_Analysis/assets/155057818/fc16b4ca-0d6f-4038-ab8b-6694205dea63)
+![Dashboard](https://github.com/theadithya/Excel_Seetha_Store_Analysis/assets/155057818/f5f2d525-42d1-490b-aa8f-b2d92a37021e)
+
 
